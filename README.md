@@ -1,2 +1,4 @@
 # LITA_class_project
-This is where I document my first project while learning Data Analysis with the Incubator Hub
+
+### Project title: Sales Performance Analysis for a Retail Store
+### summary:  In this project, you are tasked with analyzing the sales performance of a retail store
